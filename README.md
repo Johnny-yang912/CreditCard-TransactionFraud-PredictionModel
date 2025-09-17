@@ -10,7 +10,7 @@
 
 ## 專案資源
 
-- [完整 Notebooks: 信用卡交易詐欺預測.ipynb](./信用卡交易詐欺預測.ipynb)
+- [完整 Notebooks: 信用卡交易詐欺預測.ipynb](./信用卡交易詐欺偵測.ipynb)
 - 工具包:
   - [時間特徵轉換器: time_transformer_tools.py](./time_transformer_tools.py)
   - [地理特徵轉換器: locat_transformer_tools.py](./locat_transformer_tools.py)
