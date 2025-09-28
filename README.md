@@ -88,8 +88,11 @@ pip install -r requirements.txt
 
 ### 2. 啟動 API
 ```
-uvicorn app.main:app --host 0.0.0.0 --port 8000
+uvicorn app.main:app --host 127.0.0.1 --port 9000
+
 ```
+-進入網站👉http://127.0.0.1:9000/docs
+
 ### 3. 呼叫 API
 ```
 單筆交易：
